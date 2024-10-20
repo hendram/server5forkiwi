@@ -1,0 +1,1724 @@
+Proxy server running on port 443
+Target URL: www.kiwi.com
+Full URL: https://www.kiwi.com
+Response from https://www.kiwi.com/
+Status: 302
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-ray': '8d4b421e5b7aaac4-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  location: 'https://www.kiwi.com/en/',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://www.kiwi.com/en/
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'no-cache, no-store, must-revalidate',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b421eaba9aac4-SYD',
+  'content-encoding': 'br',
+  'content-security-policy': "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors 'self'",
+  'content-type': 'text/html; charset=utf-8',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  expires: '0',
+  pragma: 'no-cache',
+  server: 'cloudflare',
+  'set-cookie': 'SKYPICKER_AFFILIATE=skypicker; Max-Age=2592000; Path=/; Expires=Sun, 17 Nov 2024 20:25:33 GMT; Secure\n' +
+    'forterTokenCopy=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT\n' +
+    '__kw_darwin_saved_groups=%7B%22search-booking%22%3A%22EXCLUSIVE_GROUP_1%22%7D; Path=/; Expires=Sat, 22 Nov 2025 20:25:33 GMT; Secure\n' +
+    'SKYPICKER_VISITOR_UNIQID=1a6379d7-cd5c-4d8e-9342-7e4bc847a6ea; Path=/; Expires=Sat, 22 Nov 2025 20:25:33 GMT\n' +
+    'kw_market=au; Path=/\n' +
+    'kw_language=en; Path=/',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-recruiting': 'Hacking? Do you wanna hack the travel? Join us at jobs.kiwi.com!'
+}
+Response from data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=
+Status: 200
+Headers: { 'content-type': 'image/svg+xml' }
+Response from data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+Status: 200
+Headers: { 'content-type': 'image/gif' }
+Response from data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzUwIiBoZWlnaHQ9IjM2MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=
+Status: 200
+Headers: { 'content-type': 'image/svg+xml' }
+Response from data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjE3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=
+Status: 200
+Headers: { 'content-type': 'image/svg+xml' }
+Response from https://www.kiwi.com/styles/tailwind.search.09f33426.css
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121762',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42220e1eaac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'text/css',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"09f33426c02192985b8e74d20dc7b9f5"',
+  expires: 'Tue, 15 Apr 2025 10:35:41 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:27 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160067132146',
+  'x-goog-hash': 'crc32c=yRdiWg==\nmd5=CfM0JsAhkphbjnTSDce59Q==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '495731',
+  'x-guploader-uploadid': 'AHmUCY2Zx6lkRK6P55xTUP_UjXegX3pQbcVyt0XFYBRl_MUB0fHD9k033DEFslHFD24YJMBVCNwBr0pwkg'
+}
+Response from https://www.kiwi.com/scripts/fe/en/intl.db7a6eb1.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': 'Content-Length, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace',
+  age: '2608351',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42230f2faac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"db7a6eb13260fbd1b3c40af8af0ed575"',
+  expires: 'Mon, 17 Mar 2025 03:23:47 GMT',
+  'last-modified': 'Thu, 21 Mar 2024 12:06:54 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1709810631709578',
+  'x-goog-hash': 'crc32c=J9G3zA==\nmd5=23pusTJg+9GzxAr4rw7VdQ==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '1259',
+  'x-guploader-uploadid': 'ABPtcPqVMzfZqSHOq_EzMvp8PR9Dmqz50DiRzCJhrUYnBNikZCFWEdoHY4wtmHTbxFnkzz1hxw8'
+}
+Response from https://www.kiwi.com/scripts/runtime.search.e8370727.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '32756',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42231f39aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"a9f528bf9ba98b29c7e0d59193ad8b1a"',
+  expires: 'Wed, 16 Apr 2025 11:19:18 GMT',
+  'last-modified': 'Fri, 18 Oct 2024 11:12:19 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729249939127103',
+  'x-goog-hash': 'crc32c=JJwzWQ==\nmd5=qfUov5upiynH4NWRk62LGg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '6821',
+  'x-guploader-uploadid': 'AHmUCY2Kxsyw0qkBLZd2Y1lF_dFsma133SOsWYfRmnxy9wiNoFaNW3_GC-UvgKRJ6HHvFKNh6l8'
+}
+Response from https://www.kiwi.com/scripts/async/locale/gb.775fb979.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '162872',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f40aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"802a53f8e71bf7558f506a3f8f137259"',
+  expires: 'Mon, 14 Apr 2025 22:06:36 GMT',
+  'last-modified': 'Wed, 16 Oct 2024 08:52:15 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728391685463030',
+  'x-goog-hash': 'crc32c=+hnbPg==\nmd5=gCpT+Ocb91WPUGo/jxNyWQ==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '831',
+  'x-guploader-uploadid': 'AHmUCY1TG3QV3cSCwIPnuijBjp6O7-WPjdvGGPHk-XbHqqckaFzK7_pAVQQmRJ4HvFdDdwwWdRY'
+}
+Response from https://images.kiwi.com/illustrations/0x200/MobileApp-Q85.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '166021',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=9270',
+  'cf-ray': '8d4b422459f85d36-SYD',
+  'content-disposition': 'inline; filename="MobileApp-Q85.webp"',
+  'content-length': '8424',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"909493594f0fba355627f3c10f9870fb"',
+  'last-modified': 'Wed, 27 Dec 2023 03:31:57 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 fa43c7fc4cce8d15bc6bb688567ffc10.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'w6FJq69t74LMkUJu989rEKFMK6Kk5onH2PtcaauZWLwaoc0NYLSH4A==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/common/GooglePlayButtonEN.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '163829',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=3882',
+  'cf-ray': '8d4b42246a055d36-SYD',
+  'content-disposition': 'inline; filename="GooglePlayButtonEN.webp"',
+  'content-length': '1914',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"4ec94f6645c7e58e4aa337827d4b8371"',
+  'last-modified': 'Fri, 11 Oct 2024 13:07:17 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 35e7be28d84a15b9277bceb653af4b4c.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': '2j0bzH-B1wCzWxKHwj8ryO8YiOMjQslq2smMp2n4cbEEbA_TExisVA==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Miss from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/common/AppStoreButtonEN.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '161499',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=2066',
+  'cf-ray': '8d4b42246a035d36-SYD',
+  'content-disposition': 'inline; filename="AppStoreButtonEN.webp"',
+  'content-length': '1048',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"bbf9765042b22d0ea541435bff0b542f"',
+  'last-modified': 'Fri, 27 Sep 2024 10:09:26 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 35e7be28d84a15b9277bceb653af4b4c.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'nGnoIvZcKA3i1tovMVjV_14XVWKXFnYW8mnERvTBHp3s7BbXn067pw==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/common/kiwicom-logo-mobile.svg
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '14529',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42247a135d36-SYD',
+  'content-encoding': 'gzip',
+  'content-type': 'image/svg+xml',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: 'W/"3a995a60d00639d543995b18d3c6359d"',
+  'last-modified': 'Thu, 14 Mar 2024 10:38:48 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 a8d63eee2fd456f0e1e6772e38461220.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'FDU-x35iEsM7JpqD4TETc_63lNo1QG2g0h6LES2lAOGnIPNcaoKBBQ==',
+  'x-amz-cf-pop': 'SYD62-P1',
+  'x-cache': 'RefreshHit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/common/kiwicom-logo.svg
+Status: 200
+Headers: {
+  'access-control-allow-methods': 'GET, HEAD',
+  'access-control-allow-origin': '*',
+  'access-control-max-age': '3000',
+  age: '79853',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42247a155d36-SYD',
+  'content-encoding': 'gzip',
+  'content-type': 'image/svg+xml',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: 'W/"015830beb8bd78a43c632f3a1dcb00b6"',
+  'last-modified': 'Wed, 22 Nov 2023 15:08:43 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 d565d9b03fa73bc2ae98eaadac0992b6.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'itMBq9sz1pYj4ldL5nnB8XrqAOMmQCcOWgKiEhEIv5ZYQJtHfvcvRg==',
+  'x-amz-cf-pop': 'SYD62-P1',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://www.kiwi.com/scripts/9059.aea08f53.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '815482',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f4baac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"737f2d3092a24d077436635af993e473"',
+  expires: 'Mon, 07 Apr 2025 09:54:10 GMT',
+  'last-modified': 'Wed, 09 Oct 2024 09:03:44 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728464624813657',
+  'x-goog-hash': 'crc32c=55zq8A==\nmd5=c38tMJKiTQd0NmNa+ZPkcw==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '135976',
+  'x-guploader-uploadid': 'AHmUCY3wSPzZdzhzLJCygxbPZaHudUIXnLTSF75afdNqO7RKyJp1IlKo-WVSk-T-9EUJXxll0Op5ijrfsQ'
+}
+Response from https://www.kiwi.com/scripts/async/OnePerCityReturnItinerariesQuery.67d0e897.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '5138147',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f51aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"d5f94f6735f92a74240afeb2f0dd9618"',
+  expires: 'Sun, 16 Feb 2025 09:08:29 GMT',
+  'last-modified': 'Tue, 20 Aug 2024 07:21:38 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1724138498498505',
+  'x-goog-hash': 'crc32c=NgIEDg==\nmd5=1flPZzX5KnQkCv6y8N2WGA==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '21081',
+  'x-guploader-uploadid': 'AHxI1nOITcVMp79J6DCLi_SwDusbEx3N6Qsq54L8qCMODAXugJDWBXhmM6VDai2q3tfVHTjnxP_r5ZUIfg'
+}
+Response from https://images.kiwi.com/search/gtm-web-hero.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '165801',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=3636',
+  'cf-ray': '8d4b42247a115d36-SYD',
+  'content-disposition': 'inline; filename="gtm-web-hero.webp"',
+  'content-length': '2942',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"c18e13cfab58f3c8d6ca57ef5340b8c5"',
+  'last-modified': 'Fri, 11 Oct 2024 13:09:07 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 d5a7b4f0ce5b27d5b6750a1a5f7fd024.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'x491bYr26exJ0Bm5k86f6w7VX3CcppwJajAzLwwEv2Lo4954K6m_aA==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Miss from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/footer/desktop-bg@2x.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '158353',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=9597',
+  'cf-ray': '8d4b42247a165d36-SYD',
+  'content-disposition': 'inline; filename="desktop-bg@2x.webp"',
+  'content-length': '3376',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"3b315aa3c9a8f97ea6e450efe30b47ab"',
+  'last-modified': 'Fri, 11 Oct 2024 13:09:23 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 352b1001018ea123117ef28ad154f522.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'LWCYjxgrCIQuPVihnpUoDT7Tnwkq6gbCGtvbXzyxnZUsWoSEYCSnxg==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://www.kiwi.com/scripts/fe/kiwicom.55a31df6.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '13332778',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42231f35aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"55a31df66c262ef0dd4f019bccee8429"',
+  expires: 'Wed, 13 Nov 2024 12:52:16 GMT',
+  'last-modified': 'Fri, 17 May 2024 12:09:18 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1715947758327570',
+  'x-goog-hash': 'crc32c=iHecrQ==\nmd5=VaMd9mwmLvDdTwGbzO6EKQ==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '5746',
+  'x-guploader-uploadid': 'ABPtcPrSJla6wW8gNXSyYxyF9REdUDGQ_ebQ7G5MuXjliJOVvX8tDCu6xOd8utumfTqCh8kh95g'
+}
+Response from https://www.kiwi.com/scripts/8384.59fe6927.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '163409',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f4caac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"ebbcb8ba24a166fc0bcc6b52b472e717"',
+  expires: 'Sun, 13 Apr 2025 13:33:12 GMT',
+  'last-modified': 'Tue, 15 Oct 2024 13:28:18 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728998898146741',
+  'x-goog-hash': 'crc32c=7x2shQ==\nmd5=67y4uiShZvwLzGtStHLnFw==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '76246',
+  'x-guploader-uploadid': 'AHmUCY3F6ILil19ZfnjiqB95O6nY7pYRy7ItQhPsVx3lOXQEglusBItJaGRdqefnbU7aqTmL7V_As0hXIw'
+}
+Response from https://www.kiwi.com/scripts/2970.faaa5b6e.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121700',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f48aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"8f4e00cb4b7e464520a1ab23f932f492"',
+  expires: 'Tue, 15 Apr 2025 10:35:42 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:24 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160064333478',
+  'x-goog-hash': 'crc32c=EY/aUQ==\nmd5=j04Ay0t+RkUgoasj+TL0kg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '56399',
+  'x-guploader-uploadid': 'AHmUCY3-V88djfocsSDtSD4h_W2oAeg5A35d7XTJDAbM3aw8H-_3F0ydTdg5LMjuZD2LWMCPuhU9SAkt5A'
+}
+Response from https://www.kiwi.com/scripts/async/MagicLogin.ba0fe986.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '5138218',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f45aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"d1f98d59a2b31050be9a726b0c43f661"',
+  expires: 'Sun, 16 Feb 2025 09:08:29 GMT',
+  'last-modified': 'Tue, 20 Aug 2024 07:21:38 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1724138498764688',
+  'x-goog-hash': 'crc32c=Fysskg==\nmd5=0fmNWaKzEFC+mnJrDEP2YQ==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '601',
+  'x-guploader-uploadid': 'AHxI1nOuO0uPMlY61KUUgbhuq7xpE9lpfJb1EOwiOcpRvrDcAnScZxupuwD0T-GrjEIh07XKK22ETrktrQ'
+}
+Response from https://www.kiwi.com/scripts/7646.ad684bff.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121762',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f41aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"5001a159ecd9dbb2c30f94ebdd95b2f9"',
+  expires: 'Tue, 15 Apr 2025 10:35:42 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:24 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160064328375',
+  'x-goog-hash': 'crc32c=h0WZYQ==\nmd5=UAGhWezZ27LDD5Tr3ZWy+Q==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '119511',
+  'x-guploader-uploadid': 'AHmUCY3Yet1CKTanKLDlgg03JZ6sce9htMbAX8swzfzth1G0uiDbucymB_YetNNihocpnH_u-KueX0ybLQ'
+}
+Response from https://www.kiwi.com/scripts/async/routes/HomePage.ac3d52f0.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '283784',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f4eaac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"a560947b7cb82f57b0153588c2a48bd7"',
+  expires: 'Sun, 13 Apr 2025 13:33:12 GMT',
+  'last-modified': 'Tue, 15 Oct 2024 13:28:20 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728998900687644',
+  'x-goog-hash': 'crc32c=grn03g==\nmd5=pWCUe3y4L1ewFTWIwqSL1w==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '135020',
+  'x-guploader-uploadid': 'AHmUCY3mPI4bpIyXW-9wOZVb6YBqU4qWKpeTiWtdbrwgMlSn2CPxIPq4DMpPcJ6wYrhHFgYv4tgt7o3oOA'
+}
+Response from https://www.kiwi.com/scripts/8924.250903b8.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121762',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42232f47aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"ad0e47a4601335a46eaabe3d592dd3aa"',
+  expires: 'Tue, 15 Apr 2025 10:35:42 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:24 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160064323212',
+  'x-goog-hash': 'crc32c=gaVXJg==\nmd5=rQ5HpGATNaRuqr49WS3Tqg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '61148',
+  'x-guploader-uploadid': 'AHmUCY2hIP0UOAuVZ6h7w25dut424f94q1DCN_-kffyaFYNhNCM2cQ8dZVUahfRTVPQ-CWTW6Oc'
+}
+Response from https://static-data.kiwi.com/fonts/circular-pro/medium.woff2
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*, Content-Length, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace',
+  age: '214887',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=2628000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42264e6d572f-SYD',
+  'content-length': '34568',
+  'content-type': 'application/octet-stream',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"6d9ac4df99536914fec38933d9b8e463"',
+  expires: 'Sun, 20 Oct 2024 23:10:16 GMT',
+  'last-modified': 'Thu, 21 Mar 2024 14:12:58 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1711030378604553',
+  'x-goog-hash': 'crc32c=RGE9zA==\nmd5=bZrE35lTaRT+w4kz2bjkYw==',
+  'x-goog-meta-goog-reserved-file-mtime': '1711030364',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'STANDARD',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '34568',
+  'x-guploader-uploadid': 'ABPtcPrvs8dpc7A-M1e3o0nuMWNrtB6WoIEifbWznwhAEOE8WlCiSYChg1XoKRjNLn68TP9TN5U'
+}
+Response from https://www.kiwi.com/scripts/fe/en/intl-icu.199714de.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121762',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42230f31aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"199714de7302fc64be9760a372b6c0a5"',
+  expires: 'Tue, 15 Apr 2025 10:35:43 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:26 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160066409671',
+  'x-goog-hash': 'crc32c=Nr1Zzw==\nmd5=GZcU3nMC/GS+l2CjcrbApQ==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '191801',
+  'x-guploader-uploadid': 'AHmUCY1fw6eXpvtLPT-UAiUxmfG-JtiafcF-O8ecZ1p65dOA51thqsVURy96rkYq12-62-pI0VkJ3_yfxA'
+}
+Response from https://static-data.kiwi.com/fonts/circular-pro/bold.woff2
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*, Content-Length, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace',
+  age: '166754',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=2628000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42265e84572f-SYD',
+  'content-length': '35084',
+  'content-type': 'application/octet-stream',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"60baac55bf6761ca941e22aa4f4b758b"',
+  expires: 'Thu, 14 Nov 2024 00:13:54 GMT',
+  'last-modified': 'Mon, 14 Oct 2024 11:23:02 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728904982174182',
+  'x-goog-hash': 'crc32c=vNix2Q==\nmd5=YLqsVb9nYcqUHiKqT0t1iw==',
+  'x-goog-meta-goog-reserved-file-mtime': '1728904960',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'STANDARD',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '35084',
+  'x-guploader-uploadid': 'AHmUCY1snx-fAmZUNZenUn5ZRcGo_GmAwvqhJGCt9zoyR2htf2mt3mCtBPOx1VZCpNMuc4noSA'
+}
+Response from https://static-data.kiwi.com/fonts/circular-pro/book.woff2
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*, Content-Length, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace',
+  age: '159177',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=2628000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42265e82572f-SYD',
+  'content-length': '29924',
+  'content-type': 'application/octet-stream',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  etag: '"fcea822fb589b8a160271134a272594c"',
+  expires: 'Sat, 02 Nov 2024 08:42:10 GMT',
+  'last-modified': 'Wed, 03 Jul 2024 16:29:09 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1720024149523976',
+  'x-goog-hash': 'crc32c=MxSYQQ==\nmd5=/OqCL7WJuKFgJxE0onJZTA==',
+  'x-goog-meta-goog-reserved-file-mtime': '1720024134',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'STANDARD',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '29924',
+  'x-guploader-uploadid': 'ACJd0NraUHkAEwXAUHe0Rtu773L6tnGUu2afchWApgGz85XEutAAQ5HxIGcr1LlI5RgdFV4gxAnn4YoG1g'
+}
+Response from https://www.kiwi.com/scripts/search.0ab3cb93.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121762',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42231f3caac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"7c06f150f0315da46db575d833ab6302"',
+  expires: 'Tue, 15 Apr 2025 10:35:42 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:24 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160064410839',
+  'x-goog-hash': 'crc32c=wJ/o8g==\nmd5=fAbxUPAxXaRttXXYM6tjAg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '338671',
+  'x-guploader-uploadid': 'AHmUCY2d2xdcNAEUU_qcTb50Phygx08X6QFhXynghVNlz2gf4-gfQLbq2AMPECQ68Vowq7MQo60'
+}
+Response from https://www.kiwi.com/scripts/5715.26909862.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '32756',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42231f3baac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:33 GMT',
+  etag: 'W/"ae2c4bb2c14e686747dae8e0c65c7fbb"',
+  expires: 'Wed, 16 Apr 2025 11:19:18 GMT',
+  'last-modified': 'Fri, 18 Oct 2024 11:12:18 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729249938610188',
+  'x-goog-hash': 'crc32c=eNG04g==\nmd5=rixLssFOaGdH2ujgxlx/uw==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '1549811',
+  'x-guploader-uploadid': 'AHmUCY3z7f6TFD8Li4cTT5vM5z3Ol5a5OTgH43NkbGCwnrdfCB212imU_ogeqLBCiLATt21cH_M'
+}
+Response from https://o828979.ingest.sentry.io/api/4505782730162176/envelope/?sentry_key=9ec315b7805b988330c4a0db9d4ad982&sentry_version=7&sentry_client=sentry.javascript.react%2F7.118.0
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': 'x-sentry-error,x-sentry-rate-limits,retry-after',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'content-length': '2',
+  'content-type': 'application/json',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  server: 'nginx',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'origin, access-control-request-method, access-control-request-headers',
+  via: '1.1 google'
+}
+Response from https://loglady.kiwi.com/logmole
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b422bff8a79d2-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:35 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '23',
+  'x-request-id': '0a0af28f-a4d0-42bd-8291-c3f2d615d581'
+}
+Response from https://loglady.kiwi.com/logmole
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b422bff8679d2-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:35 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '22',
+  'x-request-id': '08d37cdc-157b-4e51-b1f9-23a76b015fd0'
+}
+Response from https://www.googletagmanager.com/gtm.js?id=GTM-KPB9P5
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'Cache-Control',
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=900',
+  'content-encoding': 'gzip',
+  'content-length': '145076',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1080:0",
+  'content-type': 'application/javascript; charset=UTF-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:34 GMT',
+  'last-modified': 'Fri, 18 Oct 2024 20:00:37 GMT',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcycc:1080:0"}],}',
+  server: 'Google Tag Manager',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains',
+  vary: 'Accept-Encoding',
+  'x-xss-protection': '0'
+}
+Response from https://078d9f6a6dc1.cdn4.forter.com/sn/078d9f6a6dc1/script.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'private, immutable, max-age=600',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript; charset=utf-8',
+  date: 'Fri, 18 Oct 2024 20:25:35 GMT',
+  etag: 'W/"b8a415a40330876c3d9e98ca0aa789b7"',
+  'last-modified': 'Fri, 18 Oct 2024 14:02:48 GMT',
+  'strict-transport-security': 'max-age=86400; includeSubDomains',
+  'timing-allow-origin': '*',
+  vary: 'Accept-Encoding',
+  via: '1.1 f3405208f368b682f8c8a96590ab1596.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'uPa6JwqSudPy4KeNQC10EsAWNN4Z7-ez6q0QXTm73Hk5NYlRjDxVvw==',
+  'x-amz-cf-pop': 'SYD62-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-sourcemap': 'https://cdn4.forter.com/map/suid/078d9f6a6dc1/51077482963'
+}
+Response from https://www.kiwi.com/images/logos/bookingcom/logo.svg
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': 'Content-Length, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace',
+  age: '1239',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=3600',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42302a91aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'image/svg+xml',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  etag: 'W/"02957d2b86333c77f6d6210b95c022c7"',
+  expires: 'Fri, 18 Oct 2024 20:07:51 GMT',
+  'last-modified': 'Mon, 18 Mar 2024 12:08:19 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1701438438476014',
+  'x-goog-hash': 'crc32c=y7ryhA==\nmd5=ApV9K4YzPHf21iELlcAixw==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '4329',
+  'x-guploader-uploadid': 'ABPtcPrGZL2hUYPEWrpguqVBPmNTdmD6LGQLZdGaP9yU93WTbTLx-PoazWrd_AwSknZM0-3rAk0Tcl70cQ'
+}
+Response from https://www.kiwi.com/scripts/async/PrefetchResults.b94234f9.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '283779',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42301a86aac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  etag: 'W/"2d639ee50039bfb776984b9df5e5830e"',
+  expires: 'Sun, 13 Apr 2025 13:33:13 GMT',
+  'last-modified': 'Tue, 15 Oct 2024 13:28:20 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1728998900826755',
+  'x-goog-hash': 'crc32c=M5+Mzg==\nmd5=LWOe5QA5v7d2mEud9eWDDg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '10205',
+  'x-guploader-uploadid': 'AHmUCY0KO1qA-o896zZpONjtypPQmyBY28FDb96st9MVki_h9IkbrT82I1MMb5Yrpb5pPrM2RZc'
+}
+Response from https://loglady.kiwi.com/logmole
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b422f9bda79d2-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '25',
+  'x-request-id': '22e61a21-5d57-49cb-9855-a2d6b2791f7c'
+}
+Response from https://api.skypicker.com/umbrella/v2/graphql?featureName=OriginDestinationInterlinkingQuery&query=query+OriginDestinationInterlinkingQuery%28+%24locale%3A+Locale+%24limit%3A+Int+%29+%7B+topPopularODLandingPages%28locale%3A+%24locale%2C+limit%3A+%24limit%29+%7B+...PopularFlightsItems+%7D+homePageData%28locale%3A+%24locale%29+%7B+__typename+...+on+HomePageOr404Data+%7B+...useCheapFlightsData+%7D+%7D+%7D+fragment+PopularFlightCard+on+ODLandingPage+%7B+origin+%7B+__typename+name+slugEn+id+%7D+destination+%7B+__typename+legacyId+name+slugEn+id+%7D+%7D+fragment+PopularFlightsItems+on+ODLandingPage+%7B+...PopularFlightCard+origin+%7B+__typename+slugEn+id+%7D+destination+%7B+__typename+slugEn+id+%7D+%7D+fragment+useCheapFlightsData+on+HomePageOr404Data+%7B+fallbackLocale+popularDestinationCities+%7B+name+slugEn+id+%7D+popularCountries+%7B+name+slugEn+id+%7D+popularRegions+%7B+name+slugEn+id+%7D+popularAirlines+%7B+name+code+slug+id+%7D+popularAirports+%7B+name+code+slugEn+id+%7D+popularOriginCities+%7B+name+slugEn+id+%7D+%7D&variables=%7B%22locale%22%3A%22en%22%2C%22limit%22%3A36%7D
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,X-WHOIAM,X-WHOIAM-SESSION,X-FORTER,X-Application,authorization,KW-Partner-Token,KW-User-Token,KW-Simple-Token,X-API-Version,X-Agent,KW-Skypicker-Visitor-UniqID,KW-Umbrella-Token,KW-Graphiql-Umbrella-Token,KW-Widget-Umbrella-Token,KW-Mobile-Umbrella-Token, KW-App-Version, KW-Request-Sequence-Number, KW-FE-Request-Id, KW-Is-Bot, KW-Page-Type, KW-itineraries-debug',
+  'access-control-allow-methods': 'GET, PUT, POST, DELETE, PATCH, OPTIONS',
+  'access-control-allow-origin': '*',
+  'access-control-max-age': '1728000',
+  age: '40621',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=14400',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42329f1ea937-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  expires: 'Sat, 19 Oct 2024 00:25:36 GMT',
+  'last-modified': 'Fri, 18 Oct 2024 09:08:35 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '76'
+}
+Response from data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMyIiBoZWlnaHQ9Ijg4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==
+Status: 200
+Headers: { 'content-type': 'image/svg+xml' }
+Response from https://images.skypicker.com/?image=https%3A%2F%2Fimages.kiwi.com%2Fsearch%2Fusps%2Ftravel-hack-search.png%3Fv2&width=320&height=216
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:85,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b4233e85e571a-SYD',
+  'cf-resized': 'internal=ok/m q=0 n=109+477 c=0+0 v=2024.10.0 l=7691 f=false',
+  'content-length': '7691',
+  'content-security-policy': "default-src 'none'; navigate-to 'none'; form-action 'none'",
+  'content-type': 'image/avif',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  etag: '"cfssAMWep_6Tf_2FUk7OBne7FxfEX6wEzolPv83SvxDQ:9221f219070b3ddc0e05e06714a501eb"',
+  'last-modified': 'Fri, 11 Oct 2024 13:09:07 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept, Accept-Encoding',
+  via: '1.1 00625c2aa02f6876cd9570486ac98924.cloudfront.net (CloudFront)',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.skypicker.com/?image=https%3A%2F%2Fimages.kiwi.com%2Fsearch%2Fusps%2Fguarantee.png%3Fv2&width=320&height=216
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:85,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b4234c93d571a-SYD',
+  'cf-resized': 'internal=ok/h q=0 n=25+323 c=0+0 v=2024.10.0 l=10062 f=false',
+  'content-length': '10062',
+  'content-security-policy': "default-src 'none'; navigate-to 'none'; form-action 'none'",
+  'content-type': 'image/avif',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  etag: '"cfo5rhhDPomAwv6__W1HjOyabMfEX6wEzolPv83SvxDQ:fcfe270a819eaf71ebaa024871cd04d1"',
+  'last-modified': 'Fri, 27 Sep 2024 10:11:20 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept, Accept-Encoding',
+  via: '1.1 34472d6f20d066888df6f09fc51137ba.cloudfront.net (CloudFront)',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.skypicker.com/?image=https%3A%2F%2Fimages.kiwi.com%2Fsearch%2Fusps%2Ftrust.png%3Fv2&width=320&height=216
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:85,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b4235398d571a-SYD',
+  'cf-resized': 'internal=ok/m q=0 n=73+649 c=0+0 v=2024.10.0 l=8366 f=false',
+  'content-length': '8366',
+  'content-security-policy': "default-src 'none'; navigate-to 'none'; form-action 'none'",
+  'content-type': 'image/avif',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  etag: '"cf62LdngWIM7oFNWg0S3upPvS2fEX6wEzolPv83SvxDQ:8e6fddb6a8cf58ce96752fc914dea7d3"',
+  'last-modified': 'Fri, 27 Sep 2024 10:11:20 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept, Accept-Encoding',
+  via: '1.1 435dfd2ccb739fd32ab23d873305cce2.cloudfront.net (CloudFront)',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://www.kiwi.com/api/cookies/remove/?categories=analytics,marketing
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b42329c5aaac4-SYD',
+  'content-length': '2',
+  'content-security-policy': "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors 'self'",
+  'content-type': 'text/plain; charset=utf-8',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Origin, Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-recruiting': 'Hacking? Do you wanna hack the travel? Join us at jobs.kiwi.com!'
+}
+Response from https://accounts.google.com/gsi/client
+Status: 200
+Headers: {
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=1800',
+  'content-encoding': 'gzip',
+  'content-security-policy': "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http\n" +
+    "script-src 'report-sample' 'nonce-EerRNc_XNnnH_3fekwu6Kg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http",
+  'content-type': 'application/javascript; charset=utf-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to="coop_dd7de8473bddc59c6b748810a67a39b1"',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  'report-to': '{"group":"coop_dd7de8473bddc59c6b748810a67a39b1","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/dd7de8473bddc59c6b748810a67a39b1"}]}',
+  server: 'ESF',
+  vary: 'Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site',
+  'x-content-type-options': 'nosniff',
+  'x-frame-options': 'SAMEORIGIN',
+  'x-xss-protection': '0'
+}
+Response from https://accounts.google.com/gsi/style
+Status: 200
+Headers: {
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=86400',
+  'content-encoding': 'gzip',
+  'content-security-policy': "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http\n" +
+    "script-src 'report-sample' 'nonce-2zposYq-1ojLeXmHGJ-jIQ' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http",
+  'content-type': 'text/css; charset=utf-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to="coop_dd7de8473bddc59c6b748810a67a39b1"',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:37 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:37 GMT',
+  'report-to': '{"group":"coop_dd7de8473bddc59c6b748810a67a39b1","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/dd7de8473bddc59c6b748810a67a39b1"}]}',
+  server: 'ESF',
+  vary: 'Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site',
+  'x-content-type-options': 'nosniff',
+  'x-frame-options': 'SAMEORIGIN',
+  'x-xss-protection': '0'
+}
+Response from https://pagead2.googlesyndication.com/pagead/landing?gcs=G100&gcd=13p3p3p3p5l1&tag_exp=101686685&rnd=1212286935.1729283137&url=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dma_cps=-&dma=0&npa=1&gtm=45He4ah0n71KPB9P5v71631035za200
+Status: 200
+Headers: {
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'no-cache, no-store, must-revalidate',
+  'content-length': '42',
+  'content-security-policy': "script-src 'none'; object-src 'none'",
+  'content-type': 'image/gif',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:37 GMT',
+  expires: 'Fri, 01 Jan 1990 00:00:00 GMT',
+  p3p: 'policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"',
+  pragma: 'no-cache',
+  server: 'cafe',
+  'timing-allow-origin': '*',
+  'x-content-type-options': 'nosniff',
+  'x-xss-protection': '0'
+}
+Response from https://www.googletagmanager.com/gtag/js?id=G-8JR7GGJF3G&l=dataLayer&cx=c
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'Cache-Control',
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=900',
+  'content-encoding': 'br',
+  'content-length': '110424',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcycc:838:0",
+  'content-type': 'application/javascript; charset=UTF-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:36 GMT',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcycc:838:0"}],}',
+  server: 'Google Tag Manager',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains',
+  vary: 'Accept-Encoding',
+  'x-xss-protection': '0'
+}
+Response from https://www.googletagmanager.com/gtag/js?id=G-P28G7XCD9Q&l=dataLayer&cx=c
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'Cache-Control',
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=900',
+  'content-encoding': 'br',
+  'content-length': '106484',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcycc:838:0",
+  'content-type': 'application/javascript; charset=UTF-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:37 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:37 GMT',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcycc:838:0"}],}',
+  server: 'Google Tag Manager',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains',
+  vary: 'Accept-Encoding',
+  'x-xss-protection': '0'
+}
+Response from https://loglady.kiwi.com/track
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b423aee2f79d2-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:38 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '256',
+  'x-request-id': '0ae5f8bf-8b16-42cf-ab7a-b70508af0a8d'
+}
+Response from https://tag-manager.kiwi.com/g/collect?v=2&tid=G-8JR7GGJF3G&gtm=45je4ah0v881413608z871631035za200zb71631035&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101533422~101686685&gtm_up=1&cid=1458223526.1729283138&ecid=1214679322&ul=en-us&sr=800x600&_fplc=0&ur=AU-NSW&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&ec_mode=c&sst.rnd=1212286935.1729283137&sst.etld=google.com.au&sst.tft=1729283134516&sst.ude=0&_s=1&sid=1729283137&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&en=page_view&_fv=1&_nsi=1&_ss=1&ep.debug_mode=false&ep.co_skypicker_affiliate=skypicker&ep.kiwi_platform=Web&ep.content_group=Homepage&ep.user_data._tag_mode=MANUAL&up.kiwi_user_id=1a6379d7-cd5c-4d8e-9342-7e4bc847a6ea&tfd=5121&richsstsse
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'no-cache',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b423d898daaf3-SYD',
+  'content-encoding': 'br',
+  'content-security-policy': "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors 'none'",
+  'content-type': 'text/plain',
+  date: 'Fri, 18 Oct 2024 20:25:38 GMT',
+  'referrer-policy': 'strict-origin-when-cross-origin',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-recruiting': 'Hacking? Do you wanna hack the travel? Join us at jobs.kiwi.com!'
+}
+Response from https://log.banana.kiwi.com/collect
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=0',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b42396da8556f-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript; charset=UTF-8',
+  date: 'Fri, 18 Oct 2024 20:25:38 GMT',
+  etag: 'W/"42ab9-1927087fbc8"',
+  'last-modified': 'Wed, 09 Oct 2024 09:06:53 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-dns-prefetch-control': 'off',
+  'x-download-options': 'noopen',
+  'x-envoy-upstream-service-time': '4',
+  'x-frame-options': 'SAMEORIGIN',
+  'x-xss-protection': '1; mode=block'
+}
+Response from https://cdn0.forter.com/078d9f6a6dc1/73e76a37d62349f3934e8b60fa8ba58a/prop.json?_=1729283137781
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'cache-control': 'no-cache',
+  connection: 'keep-alive',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:38 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'timing-allow-origin': '*',
+  'transfer-encoding': 'chunked',
+  vary: 'Origin'
+}
+Response from https://api.skypicker.com/umbrella/v2/graphql?featureName=OnePerCityReturnItinerariesQuery
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,X-WHOIAM,X-WHOIAM-SESSION,X-FORTER,X-Application,authorization,KW-Partner-Token,KW-User-Token,KW-Simple-Token,X-API-Version,X-Agent,KW-Skypicker-Visitor-UniqID,KW-Umbrella-Token,KW-Graphiql-Umbrella-Token,KW-Widget-Umbrella-Token,KW-Mobile-Umbrella-Token, KW-App-Version, KW-Request-Sequence-Number, KW-FE-Request-Id, KW-Is-Bot, KW-Page-Type, KW-itineraries-debug',
+  'access-control-allow-methods': 'GET, PUT, POST, DELETE, PATCH, OPTIONS',
+  'access-control-allow-origin': '*',
+  'access-control-max-age': '1728000',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b4232bf37a937-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '2289'
+}
+Response from https://www.googletagmanager.com/gtag/destination?id=G-8JR7GGJF3GG-P28G7XCD9Q&l=dataLayer&cx=c
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'Cache-Control',
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'private, max-age=900',
+  'content-encoding': 'br',
+  'content-length': '87813',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcysghrgc:42:0",
+  'content-type': 'application/javascript; charset=UTF-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  expires: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  'last-modified': 'Fri, 18 Oct 2024 20:00:37 GMT',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcysghrgc:42:0"}],}',
+  server: 'Google Tag Manager',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains',
+  vary: 'Accept-Encoding',
+  'x-xss-protection': '0'
+}
+Response from https://73e76a37d62349f3934e8b60fa8ba58a-078d9f6a6dc1.cdn.forter.com/prop.json
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'origin, x-requested-with, content-type, x-csrf-token',
+  'access-control-allow-methods': 'PUT, GET, POST, DELETE, OPTIONS',
+  'access-control-allow-origin': '',
+  'cache-control': 'max-age=0, no-cache, no-store, must-revalidate',
+  connection: 'close',
+  'content-length': '2',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  etag: '"2-624ab05ada4f0"',
+  expires: 'Wed, 11 Jan 1984 05:00:00 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 12:06:53 GMT',
+  pragma: 'no-cache',
+  server: 'Apache',
+  'timing-allow-origin': '*'
+}
+Response from https://www.google-analytics.com/g/collect?v=2&tid=G-P28G7XCD9Q&gtm=45je4ah0v9194468923za200zb71631035&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101686685~101823847&gtm_up=1&cid=1458223526.1729283138&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&_eu=AEE&_s=1&sid=1729283139&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&en=form_start&_fv=1&_ss=1&ep.debug_mode=false&ep.co_skypicker_affiliate=skypicker&ep.kiwi_platform=Web&ep.content_group=Homepage&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fnetwork.banana.kiwi.com%2Fsave%3Fid%3D24de18b7-0809-4d42-aec9-547595215034%26_gl%3D1*1kp5pyb*_up*MQ..*_ga*MTQ1ODIyMzUyNi4xNzI5MjgzMTM4*_ga_8JR7GGJF3G*MTcyOTI4MzEzNy4xLjAuMTcyOTI4MzEzNy4wLjAuMzMwODUxNjA4*_ga_P28G7XCD9Q*MTcyOTI4MzEzOC4xLjAuMTcyOTI4MzEzOC4wLjAuMA..&epn.form_length=0&up.kiwi_user_id=1a6379d7-cd5c-4d8e-9342-7e4bc847a6ea&tfd=6614
+Status: 204
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'no-cache, no-store, must-revalidate',
+  'content-length': '0',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:86:0",
+  'content-type': 'text/plain',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  expires: 'Fri, 01 Jan 1990 00:00:00 GMT',
+  pragma: 'no-cache',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:86:0"}],}',
+  server: 'Golfe2'
+}
+Response from https://cdn0.forter.com/078d9f6a6dc1/73e76a37d62349f3934e8b60fa8ba58a/prop.json?_=1729283139404
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'cache-control': 'no-cache',
+  connection: 'keep-alive',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:39 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'timing-allow-origin': '*',
+  'transfer-encoding': 'chunked',
+  vary: 'Origin'
+}
+Response from https://www.google-analytics.com/g/collect?v=2&tid=G-8JR7GGJF3GG-P28G7XCD9Q&gtm=45je4ah0z871631035za200zb9194468923&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101533421~101686685~101823847~101836706&gtm_up=1&cid=1458223526.1729283138&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&_s=1&sid=1729283139&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&en=page_view&_fv=1&_ss=1&up.kiwi_user_id=1a6379d7-cd5c-4d8e-9342-7e4bc847a6ea&tfd=7068
+Status: 204
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'no-cache, no-store, must-revalidate',
+  'content-length': '0',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:86:0",
+  'content-type': 'text/plain',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  expires: 'Fri, 01 Jan 1990 00:00:00 GMT',
+  pragma: 'no-cache',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:86:0"}],}',
+  server: 'Golfe2'
+}
+Response from https://www.kiwi.com/scripts/async/SubscriptionForm.07371101.js
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  age: '121215',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'public, max-age=15552000',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b42498f7baac4-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/javascript',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  etag: 'W/"ac3fa36b216b783b89e9f7f611d65c3a"',
+  expires: 'Tue, 15 Apr 2025 10:35:46 GMT',
+  'last-modified': 'Thu, 17 Oct 2024 10:14:24 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  'x-content-type-options': 'nosniff',
+  'x-goog-generation': '1729160064505082',
+  'x-goog-hash': 'crc32c=GbDroQ==\nmd5=rD+jayFreDuJ6ff2EdZcOg==',
+  'x-goog-metageneration': '1',
+  'x-goog-storage-class': 'MULTI_REGIONAL',
+  'x-goog-stored-content-encoding': 'identity',
+  'x-goog-stored-content-length': '17203',
+  'x-guploader-uploadid': 'AHmUCY1ngajvxlerMOuJxXw9AVnI9cfwY4KP0wSXT6Fdxk-I1hLRMR0iCwTpYfVF-hORcsCQnqY'
+}
+Response from data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzM5IiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=
+Status: 200
+Headers: { 'content-type': 'image/svg+xml' }
+Response from https://tag-manager.kiwi.com/g/collect?v=2&tid=G-8JR7GGJF3G&gtm=45je4ah0v881413608za200zb71631035&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101533422~101686685&gtm_up=1&cid=1458223526.1729283138&ecid=1214679322&ul=en-us&sr=800x600&_fplc=0&ur=AU-NSW&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&ec_mode=c&_eu=AEE&sst.rnd=1212286935.1729283137&sst.etld=google.com.au&sst.tft=1729283134516&sst.sp=1&sst.em_event=1&sst.ude=0&sid=1729283137&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&_s=2&tfd=7154&richsstsse
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'no-cache',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b42493b23aaf3-SYD',
+  'content-encoding': 'br',
+  'content-security-policy': "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors 'none'",
+  'content-type': 'text/plain',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  'referrer-policy': 'strict-origin-when-cross-origin',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-recruiting': 'Hacking? Do you wanna hack the travel? Join us at jobs.kiwi.com!'
+}
+Response from https://images.kiwi.com/illustrations/0x200/Mailbox-Q85.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '155517',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=4277',
+  'cf-ray': '8d4b424b79175d36-SYD',
+  'content-disposition': 'inline; filename="Mailbox-Q85.webp"',
+  'content-length': '3696',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  etag: '"a9dab778cee5745b79e69446732465a3"',
+  'last-modified': 'Fri, 14 Jul 2023 07:15:45 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 fa43c7fc4cce8d15bc6bb688567ffc10.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'GVWNz0EQ3XZeP00WYsH0NJMqBlE28d02lqjFcLwIycB-EpzwRGZbbg==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://network.banana.kiwi.com/save?id=24de18b7-0809-4d42-aec9-547595215034&_gl=1*1kp5pyb*_up*MQ..*_ga*MTQ1ODIyMzUyNi4xNzI5MjgzMTM4*_ga_8JR7GGJF3G*MTcyOTI4MzEzNy4xLjAuMTcyOTI4MzEzNy4wLjAuMzMwODUxNjA4*_ga_P28G7XCD9Q*MTcyOTI4MzEzOC4xLjAuMTcyOTI4MzEzOC4wLjAuMA..
+Status: 201
+Headers: { 'access-control-allow-origin': '*', 'content-length': '0' }
+Response from https://cdn0.forter.com/078d9f6a6dc1/73e76a37d62349f3934e8b60fa8ba58a/prop.json?_=1729283140166
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'cache-control': 'no-cache',
+  connection: 'keep-alive',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'timing-allow-origin': '*',
+  'transfer-encoding': 'chunked',
+  vary: 'Origin'
+}
+Response from https://cdn3.forter.com/events
+Status: 200
+Headers: {
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'private, no-cache, no-store',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'strict-transport-security': 'max-age=86400; includeSubDomains',
+  'timing-allow-origin': '*',
+  vary: 'Origin\nOrigin',
+  via: '1.1 f3e578bff4124c9f5c30f5f197fdec4a.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'OqcrNm9AjSIsS6imWMMYvUEmgqdpfcd4Dph9G89Dt46PrVoTIC8D3w==',
+  'x-amz-cf-pop': 'SFO5-P3',
+  'x-cache': 'Miss from cloudfront'
+}
+Response from https://accounts.google.com/gsi/status?client_id=190201978312-d6ka4ulprck0ootor1m2nnjm36mu0ds8.apps.googleusercontent.com&as=EZbTget%2FZnOkO8przv0qKA
+Status: 400
+Headers: {
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'no-cache, no-store, max-age=0, must-revalidate',
+  'content-encoding': 'gzip',
+  'content-security-policy': "script-src 'report-sample' 'nonce-2cP3U98gkECNgIlLITeVKg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http\n" +
+    "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/identity-sign-in-google-http",
+  'content-type': 'text/html; charset=utf-8',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to="coop_dd7de8473bddc59c6b748810a67a39b1"',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  expires: 'Mon, 01 Jan 1990 00:00:00 GMT',
+  pragma: 'no-cache',
+  'report-to': '{"group":"coop_dd7de8473bddc59c6b748810a67a39b1","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/dd7de8473bddc59c6b748810a67a39b1"}]}',
+  server: 'ESF',
+  'x-content-type-options': 'nosniff',
+  'x-xss-protection': '0'
+}
+Response from https://images.kiwi.com/whitelabels/favicon/kiwicom.ico
+Status: 200
+Headers: {
+  'access-control-allow-methods': 'GET, HEAD',
+  'access-control-allow-origin': '*',
+  'access-control-max-age': '3000',
+  age: '114404',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-cache-status': 'HIT',
+  'cf-ray': '8d4b424efc895d36-SYD',
+  'content-encoding': 'br',
+  'content-type': 'image/vnd.microsoft.icon',
+  date: 'Fri, 18 Oct 2024 20:25:40 GMT',
+  etag: 'W/"a773c77fe9d137fa42f187c165e50766"',
+  'last-modified': 'Mon, 15 Jul 2024 12:37:16 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 db487bbf70af29af96ef50a3f5b469d4.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'TBzslGygJtsL6aVugfzy1zwMdTJ23O6xdbxQowM4nP3-jY5XyGoSUg==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://images.kiwi.com/favicons/icons/kiwicom/favicon-32x32.png
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  age: '298856',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'max-age=604800',
+  'cf-bgj': 'imgq:100,h2pri',
+  'cf-cache-status': 'HIT',
+  'cf-polished': 'origFmt=png, origSize=530',
+  'cf-ray': '8d4b424f3cba5d36-SYD',
+  'content-disposition': 'inline; filename="favicon-32x32.webp"',
+  'content-length': '384',
+  'content-type': 'image/webp',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  etag: '"5681d08613d751d4c1ced69a2bc3b26b"',
+  'last-modified': 'Wed, 28 Aug 2024 10:40:53 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept',
+  via: '1.1 dc5b7b7a6895b629c6cb8eef5910309e.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'HpSPNuVKMf4ndUp69KUpI3IRt0fiXm6rlXGE29DQ96hUtjfeAFJEtA==',
+  'x-amz-cf-pop': 'SYD3-P2',
+  'x-cache': 'Hit from cloudfront',
+  'x-content-type-options': 'nosniff'
+}
+Response from https://cdn0.forter.com/078d9f6a6dc1/73e76a37d62349f3934e8b60fa8ba58a/wpt.json
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'cache-control': 'private, no-cache, no-store',
+  connection: 'keep-alive',
+  'content-length': '20',
+  'content-type': 'application/json; charset=utf-8',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  etag: 'W/"14-Y53wuE/mmbSikKcT/WualL1N65U"',
+  expires: '-1',
+  'keep-alive': 'timeout=10',
+  pragma: 'no-cache',
+  'timing-allow-origin': '*',
+  vary: 'Origin'
+}
+Response from https://d2o5idwacg3gyw.cloudfront.net/events
+Status: 200
+Headers: {
+  'cache-control': 'private, no-cache, no-store',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'strict-transport-security': 'max-age=86400; includeSubDomains',
+  'timing-allow-origin': '*',
+  vary: 'Origin\nOrigin',
+  via: '1.1 7fe70ef74e6a71dc6fcd4b1b62861ffc.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'BITeAYUpdQkCRc4wygopY5_HVWbSgz22Rp0_zOqAczCggV0YRGiH-Q==',
+  'x-amz-cf-pop': 'SYD62-P2',
+  'x-cache': 'Miss from cloudfront'
+}
+Response from https://api.skypicker.com/umbrella/v2/graphql?featureName=OnePerCityReturnItinerariesQuery
+Status: 200
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': 'DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,X-WHOIAM,X-WHOIAM-SESSION,X-FORTER,X-Application,authorization,KW-Partner-Token,KW-User-Token,KW-Simple-Token,X-API-Version,X-Agent,KW-Skypicker-Visitor-UniqID,KW-Umbrella-Token,KW-Graphiql-Umbrella-Token,KW-Widget-Umbrella-Token,KW-Mobile-Umbrella-Token, KW-App-Version, KW-Request-Sequence-Number, KW-FE-Request-Id, KW-Is-Bot, KW-Page-Type, KW-itineraries-debug',
+  'access-control-allow-methods': 'GET, PUT, POST, DELETE, PATCH, OPTIONS',
+  'access-control-allow-origin': '*',
+  'access-control-max-age': '1728000',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b42335fa6a937-SYD',
+  'content-encoding': 'br',
+  'content-type': 'application/json',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '4662'
+}
+Response from https://duuytoqss3gu4.cloudfront.net/logo_small.gif?dfpadname=&check=1729283141611
+Status: 200
+Headers: {
+  'content-length': '48',
+  'content-type': 'image/gif',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  server: 'CloudFront',
+  via: '1.1 fda8cdb1c5d1bc3e2d4cabe818dc8c5e.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'zcg0b0jJ4ckIT8CnDaTs9WFXzRg3ul5zAJ7MAaHb-DAULGFw5OBa2w==',
+  'x-amz-cf-pop': 'SYD3-P1',
+  'x-cache': 'FunctionGeneratedResponse from cloudfront'
+}
+Response from https://duuytoqss3gu4.cloudfront.net/logo_large.gif?1729283141611&-linkd-32.
+Status: 200
+Headers: {
+  'content-length': '48',
+  'content-type': 'image/gif',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  server: 'CloudFront',
+  via: '1.1 fda8cdb1c5d1bc3e2d4cabe818dc8c5e.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'vXUw1ajyzSnh2EWoMsh-C5d3jOPnuITo6Cz3Pb30QVFfxHx8rgxP8w==',
+  'x-amz-cf-pop': 'SYD3-P1',
+  'x-cache': 'FunctionGeneratedResponse from cloudfront'
+}
+Response from https://duuytoqss3gu4.cloudfront.net/logo_medium.gif?check=1729283141611&refererPageDetail=
+Status: 200
+Headers: {
+  'content-length': '48',
+  'content-type': 'image/gif',
+  date: 'Fri, 18 Oct 2024 20:25:41 GMT',
+  server: 'CloudFront',
+  via: '1.1 fda8cdb1c5d1bc3e2d4cabe818dc8c5e.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': '-ywNcXi7rT_h0xWPb3BWXlVqDuBZxwkifDxqSto5dWqZPJzC6_ckwQ==',
+  'x-amz-cf-pop': 'SYD3-P1',
+  'x-cache': 'FunctionGeneratedResponse from cloudfront'
+}
+Response from https://d2lxqodqbpy7c2.cloudfront.net/status
+Status: 304
+Headers: {
+  'access-control-allow-headers': 'If-None-Match',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': 'X-Correlation-ID,X-Request-ID',
+  date: 'Fri, 18 Oct 2024 20:25:42 GMT',
+  etag: 'cdced3cfc8c79bc699c99ec99b9cced3cfd39d9d',
+  vary: 'Accept-Encoding',
+  via: '1.1 eeaafdd5e22d1448912c6cf3e1e5bd58.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'gh8vfwOFzKnVO7F0nnU-NPS9R5B1qSu74MDhHErFmwoyjwf0FT46Kg==',
+  'x-amz-cf-pop': 'SYD3-P1',
+  'x-amzn-requestid': '7f3d928f-0694-4d82-8dec-8521ecdf34ba',
+  'x-amzn-trace-id': 'Root=1-6712c446-2cf318436f19b76b2a3e72d7;Parent=40d8388cba50c69d;Sampled=0;Lineage=1:171b4fa1:0',
+  'x-cache': 'Miss from cloudfront',
+  'x-correlation-id': 'aDp2ZW84ZjU4eDlrdDJncHN5aGp2c3J4MnJpeD5eXF5wZnJWfg==',
+  'x-request-id': 'aHB4bHd4PXU2ZmlsPDJncHN5aGp2c3J4MnJpeD5xZW1yMG53'
+}
+Response from https://media-akam.licdn.com/cdo/cdxs/r20.gif?rnd=1729283142399
+Status: 200
+Headers: {
+  'accept-ranges': 'bytes',
+  'access-control-allow-origin': '*',
+  'cache-control': 'max-age=604800',
+  'content-length': '43',
+  'content-type': 'image/gif',
+  date: 'Fri, 18 Oct 2024 20:25:42 GMT',
+  'last-modified': 'Thu, 09 Mar 2023 16:36:32 GMT',
+  server: 'nginx',
+  'timing-allow-origin': '*',
+  'x-cdn': 'AKAM-STLS',
+  'x-cdn-client-ip-version': 'IPV4',
+  'x-cdn-proto': 'HTTP2',
+  'x-content-type-options': 'nosniff',
+  'x-datastream-cache-status': '1',
+  'x-li-fabric': 'prod-lva1',
+  'x-li-pop': 'prod-lva1-x',
+  'x-li-proto': 'http/1.1',
+  'x-li-uuid': 'AAX3XdUQgQeW0bjpVFYHzg=='
+}
+Response from https://loglady.kiwi.com/track
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b42575c9f79d2-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:42 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-envoy-upstream-service-time': '44',
+  'x-request-id': 'd59124b1-258d-438a-b245-f966d49189ed'
+}
+Response from https://d6rak4b14t5gp.cloudfront.net/ZXZlbnRz
+Status: 200
+Headers: {
+  'cache-control': 'private, no-cache, no-store',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:42 GMT',
+  expires: '-1',
+  pragma: 'no-cache',
+  'strict-transport-security': 'max-age=86400; includeSubDomains',
+  'timing-allow-origin': '*',
+  vary: 'Origin\nOrigin',
+  via: '1.1 e575582c24a1bc95cd06311c3837a63a.cloudfront.net (CloudFront)',
+  'x-amz-cf-id': 'xxSEFOkMITK1FmEkR_TRecvo-J6XEf8ivndwcdDBMgH9MUN2OyQJsg==',
+  'x-amz-cf-pop': 'SYD62-P1',
+  'x-cache': 'Miss from cloudfront'
+}
+Cookie consent button detected.
+Response from https://log.banana.kiwi.com/log
+Status: 202
+Headers: {
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b425a3d6e556f-SYD',
+  'content-length': '0',
+  date: 'Fri, 18 Oct 2024 20:25:43 GMT',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Origin',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-dns-prefetch-control': 'off',
+  'x-download-options': 'noopen',
+  'x-envoy-upstream-service-time': '2',
+  'x-frame-options': 'SAMEORIGIN',
+  'x-xss-protection': '1; mode=block'
+}
+Response from https://www.google-analytics.com/g/collect?v=2&tid=G-P28G7XCD9Q&gtm=45je4ah0v9194468923za200zb71631035&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101686685~101823847&gtm_up=1&cid=1458223526.1729283138&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&_eu=AEE&_s=2&sid=1729283139&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&en=form_submit&ep.debug_mode=false&ep.co_skypicker_affiliate=skypicker&ep.kiwi_platform=Web&ep.content_group=Homepage&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fnetwork.banana.kiwi.com%2Fsave%3Fid%3D24de18b7-0809-4d42-aec9-547595215034%26_gl%3D1*1kp5pyb*_up*MQ..*_ga*MTQ1ODIyMzUyNi4xNzI5MjgzMTM4*_ga_8JR7GGJF3G*MTcyOTI4MzEzNy4xLjAuMTcyOTI4MzEzNy4wLjAuMzMwODUxNjA4*_ga_P28G7XCD9Q*MTcyOTI4MzEzOC4xLjAuMTcyOTI4MzEzOC4wLjAuMA..&epn.form_length=0&tfd=11633
+Status: 204
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+  'cache-control': 'no-cache, no-store, must-revalidate',
+  'content-length': '0',
+  'content-security-policy-report-only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:86:0",
+  'content-type': 'text/plain',
+  'cross-origin-opener-policy-report-only': 'same-origin; report-to=coop_reporting',
+  'cross-origin-resource-policy': 'cross-origin',
+  date: 'Fri, 18 Oct 2024 20:25:44 GMT',
+  expires: 'Fri, 01 Jan 1990 00:00:00 GMT',
+  pragma: 'no-cache',
+  'report-to': '{"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:86:0"}],}',
+  server: 'Golfe2'
+}
+Response from https://tag-manager.kiwi.com/g/collect?v=2&tid=G-8JR7GGJF3G&gtm=45je4ah0v881413608z871631035za200zb71631035&_p=1729283134516&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101533422~101686685&gtm_up=1&cid=1458223526.1729283138&ecid=1214679322&ul=en-us&sr=800x600&_fplc=0&ur=AU-NSW&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=denied&ec_mode=c&sst.rnd=1212286935.1729283137&sst.etld=google.com.au&sst.tft=1729283134516&sst.ude=0&_s=3&sid=1729283137&sct=1&seg=0&dl=https%3A%2F%2Fwww.kiwi.com%2Fen%2F&dt=Kiwi.com%20%7C%20Find%20Cheap%20Flights%20%26%20Discover%20New%20Destinations&en=scroll&ep.debug_mode=false&ep.co_skypicker_affiliate=skypicker&ep.kiwi_platform=Web&ep.content_group=Homepage&epn.percent_scrolled=25&ep.user_data._tag_mode=MANUAL&tfd=13046&richsstsse
+Status: 200
+Headers: {
+  'access-control-allow-origin': '*',
+  'alt-svc': 'h3=":443"; ma=86400',
+  'cache-control': 'no-cache',
+  'cf-cache-status': 'DYNAMIC',
+  'cf-ray': '8d4b426e0ac7aaf3-SYD',
+  'content-encoding': 'br',
+  'content-security-policy': "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors 'none'",
+  'content-type': 'text/plain',
+  date: 'Fri, 18 Oct 2024 20:25:46 GMT',
+  'referrer-policy': 'strict-origin-when-cross-origin',
+  server: 'cloudflare',
+  'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+  vary: 'Accept-Encoding',
+  via: '1.1 google',
+  'x-content-type-options': 'nosniff',
+  'x-recruiting': 'Hacking? Do you wanna hack the travel? Join us at jobs.kiwi.com!'
+}
